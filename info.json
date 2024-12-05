@@ -1,0 +1,13 @@
+{
+  "name": "RLD-lang",
+  "title": "RailLogisticsDispatcher language pack",
+  "description": "Localization for RailLogisticsDispatcher",
+  "author": ["xyzzycgn"],
+  "homepage": "https://github.com/xyzzycgn/RLD-lang.git",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "RailLogisticsDispatcher >= 2.0.22",
+    "! LtnManager"
+  ]
+}
