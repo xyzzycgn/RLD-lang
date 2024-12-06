@@ -2,9 +2,8 @@ name: Publish Factorio Mod
 
 on:
   push:
-    branches:
-      - main
-
+    tags:
+      - '*'
 jobs:
   publish-mod:
     runs-on: ubuntu-latest
