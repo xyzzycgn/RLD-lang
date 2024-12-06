@@ -1,4 +1,4 @@
-Localizations for Rail Logistics Dispatcher 2.
+Localizations for [Rail Logistics Dispatcher 2](https://mods.factorio.com/mod/RailLogisticsDispatcher).
 
 Language(s) in this version:
 - English (as template),
