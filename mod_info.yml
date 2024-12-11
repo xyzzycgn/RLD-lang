@@ -1,0 +1,10 @@
+mod_info:
+  description_file: README.md
+  summary: Localization for RailLogisticsDispatcher
+  title: RailLogisticsDispatcher language pack
+  attach_source_link: true
+  license: mit
+  category: localizations
+  tags:
+    - logistic-network
+    - trains
