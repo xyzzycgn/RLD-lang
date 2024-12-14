@@ -10,3 +10,4 @@
 .idea
 *.iml
 .factorioignore
+locale/(templates)
