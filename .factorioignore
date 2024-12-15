@@ -1,12 +1,13 @@
-.git
-.github
+.git/
+.github/
 .gitignore
 .log
 .tmp
-.vscode
+.vscode/
 *.bak
 *.tmp
 *.tmp.*
-.idea
+.idea/
 *.iml
 .factorioignore
+locale/(templates)/
