@@ -17,3 +17,16 @@ Date: 2024-12-12
     - zh-CN
   Info:
     - added thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2024-12-16
+  Features:
+    - new languages es and pt
+  Locale:
+    - de
+    - fr
+    - zh-CN
+    - es
+    - pt
+  Info:
+    - removed unneeded files from zip
