@@ -30,3 +30,14 @@ Date: 2024-12-15
     - pt
   Info:
     - removed unneeded files from zip
+---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+Date: 2024-12-15
+  Bugfixes:
+    - corrected locales for spanish and portuguese (must be qualified with country)
+  Locale:
+    - de
+    - fr
+    - zh-CN
+    - es-ES
+    - pt-PT
