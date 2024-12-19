@@ -41,3 +41,15 @@ Date: 2024-12-15
     - zh-CN
     - es-ES
     - pt-PT
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: ???
+  Features:
+    - new languages pt-BR
+  Locale:
+    - de
+    - fr
+    - zh-CN
+    - es-ES
+    - pt-PT
+    - pt-BR
