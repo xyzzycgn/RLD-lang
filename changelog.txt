@@ -48,10 +48,12 @@ Date: ???
     - new languages
         - pt-BR
         - nl
+        - it
   Locale:
     - de
     - es-ES
     - fr
+    - it
     - nl
     - pt-PT
     - pt-BR
