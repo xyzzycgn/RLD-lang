@@ -11,7 +11,7 @@ Localizations for [Rail Logistics Dispatcher 2](https://mods.factorio.com/mod/Ra
     - Brazil pt-BR[^1]
   - Dutch nl [^1]
   - Italian it [^1]
-  - English (use as template),
+  - English (use as template)
 
 [^1]: translated with google - may contain wrong translations or such sounding strange/funny for native speakers 😉.
 
