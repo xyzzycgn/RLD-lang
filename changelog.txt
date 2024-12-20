@@ -45,11 +45,14 @@ Date: 2024-12-15
 Version: 1.3.0
 Date: ???
   Features:
-    - new languages pt-BR
+    - new languages
+        - pt-BR
+        - nl
   Locale:
     - de
-    - fr
-    - zh-CN
     - es-ES
+    - fr
+    - nl
     - pt-PT
     - pt-BR
+    - zh-CN
