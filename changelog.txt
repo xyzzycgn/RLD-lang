@@ -58,3 +58,9 @@ Date: 2024-12-20
     - pt-PT
     - pt-BR
     - zh-CN
+---------------------------------------------------------------------------------------------------
+Version: 1.3.1
+Date: 2025-01-27
+  Info:
+    - switched to crowdin for making contributions instead of direct access to git.
+      For details please have a look at https://github.com/xyzzycgn/RLD-lang/blob/main/README.md
