@@ -19,4 +19,10 @@ Localizations for [Rail Logistics Dispatcher 2](https://mods.factorio.com/mod/Ra
   - [plexpt](https://github.com/factorio-plexpt) zh-CN
   
 ----
-Contributions adding new language localizations or corrections welcomed (please open a suitable PR)
+Contributions adding new language localizations or corrections welcomed. For contributing, please use 
+[this Crowdin project](https://crowdin.com/project/factorio-mods-localization). 
+
+Due to technical reasons all changes to translations must be done in this way, so please do not use PR in this project 
+directly, as they can't be accepted.
+
+You can find more details [here](https://github.com/dima74/factorio-mods-localization#how-to-translate-using-crowdin).
